@@ -3,7 +3,7 @@ body {
 }
 
 #images {
-	width:50%;
+	width:25%;
 }
 
 .principal{
@@ -28,7 +28,7 @@ p {
 }
 
 em strong {
-	color: #FF0000;
+	color: #000000;
 }
 
 .itens {
@@ -36,7 +36,7 @@ em strong {
 }
 
 .beneficios {
-	background: #FFFFFF;
+	background: #000000;
 	padding: 20px;
 }
 
