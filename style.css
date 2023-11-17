@@ -3,11 +3,11 @@ body {
 }
 
 #images {
-	width:100%;
+	width:50%;
 }
 
 .principal{
-	background: #CCCCCC;
+	background: #000000;
 	padding: 30px;
 }
 
